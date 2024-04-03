@@ -1,3 +1,3 @@
 # Databricks notebook source
-# MAGIC %md
-# MAGIC ### Hello world
+# Print "Hello, World!"
+print("Hello, World!")
